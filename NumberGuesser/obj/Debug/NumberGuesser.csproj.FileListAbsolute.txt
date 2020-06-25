@@ -1,0 +1,7 @@
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\tinh1\OneDrive\Máy tính\C#\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
